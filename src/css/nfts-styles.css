@@ -1,0 +1,31 @@
+.nft__container{
+  display: flex;
+  justify-content: center;
+  height: 500px;
+	overflow-y: auto;
+}
+
+
+.nft__picture{
+  width: 80px;
+  height: 100px;
+}
+
+.nft__main-table-sections{
+  margin-top: 40px;
+}
+
+thead{
+  margin-top: 40px;
+}
+
+
+th, td{
+  padding: 8px;
+  margin: 10px 10px;
+  font-size: 20px
+}
+
+th {
+  border: 1px solid #000;
+}
